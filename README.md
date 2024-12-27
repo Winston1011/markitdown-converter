@@ -1,6 +1,6 @@
 # MarkitDown Converter - 智能文档转换助手 🚀
 
- ![MarkitDown](https://github.com/microsoft/markitdown/)是微软开源的一个强大的文档转换工具，能够将各种格式的文档智能转换为 Markdown 格式，在基础上实现了可视化预览处理，并支持与 AI 助手进行实时对话，帮助您更好地理解和编辑文档内容。
+ [MarkitDown](https://github.com/microsoft/markitdown/)是微软开源的一个强大的文档转换工具，能够将各种格式的文档智能转换为 Markdown 格式，在基础上实现了可视化预览处理，并支持与 AI 助手进行实时对话，帮助您更好地理解和编辑文档内容。
 
 ## ✨ 核心功能
 
@@ -67,8 +67,10 @@ streamlit run run.py
 ## 💖 支持项目
 
 如果您觉得这个项目对您有帮助，欢迎打赏支持！
-
+微信：
 ![微信打赏码](https://minioapi.nonezero.top/dz-minio-os/wx%E6%94%B6%E6%AC%BE.jpg)
+
+支付宝：
 ![支付宝打赏码](https://minioapi.nonezero.top/dz-minio-os/zfb%E6%94%B6%E6%AC%BE.jpg)
 
 ## 📝 许可证
