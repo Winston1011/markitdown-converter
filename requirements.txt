@@ -1,0 +1,20 @@
+# Web 应用框架
+streamlit>=1.31.0
+
+# OpenAI相关
+openai>=1.12.0
+markitdown>=0.1.0
+
+# 文件处理
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0  # PDF处理
+Pillow>=10.0.0   # 图片处理
+pandas>=2.0.0    # Excel处理
+openpyxl>=3.1.0  # Excel支持
+beautifulsoup4>=4.12.0  # 网页解析
+requests>=2.31.0  # HTTP请求
+mutagen>=1.47.0  # 音频文件处理
+
+# 其他工具
+python-magic>=0.4.27  # 文件类型检测
+chardet>=5.2.0    # 字符编码检测 
